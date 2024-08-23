@@ -5,7 +5,8 @@
 ## 설치
 ```
 npm i recharts    
-npm i react-calendar
-npm i react-big-calendar moment
-npm i @types/react-big-calendar
+npm i react-calendar    
+npm i react-big-calendar moment    
+npm i @types/react-big-calendar    
+npm i react-hook-form zod @hookform/resolvers
 ```
