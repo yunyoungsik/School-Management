@@ -1,6 +1,7 @@
 # School Management
 
-[참고영상](https://www.youtube.com/watch?v=myYlGLFxZas)
+[참고영상1](https://www.youtube.com/watch?v=myYlGLFxZas)
+[참고영상2](https://youtu.be/6sfiAyKy8Jo?si=t6zCfN43vr0UDJOw)
 
 ## 설치
 ```
